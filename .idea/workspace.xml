@@ -7,65 +7,154 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1e1c849-d1fc-48fe-bb42-64285e90be78" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-20-51-48-288.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-04-20-513.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-04-25-342.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-04-45-273.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-04-49-539.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-05-31-256.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-05-39-894.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-06-40-166.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-06-44-529.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-07-29-138.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-07-34-825.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-08-00-376.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-08-01-963.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-08-08-103.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-26-21-14-32-817.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-11-19-28-714.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-11-20-23-081.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-11-32-39-450.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-11-36-31-402.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-11-50-42-214.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-12-01-28-650.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-12-02-41-017.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-12-02-54-086.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-12-03-27-500.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-13-26-39-030.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-13-26-47-250.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-21-39-20-834.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-21-39-29-213.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-21-42-01-454.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-21-42-04-272.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-21-43-08-263.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-21-50-40-007.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-21-57-16-623.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-22-02-31-183.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-22-04-24-272.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-22-53-38-338.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-22-58-06-173.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-23-11-01-201.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-23-17-04-473.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-23-17-25-111.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-23-18-28-707.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-23-22-20-113.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-23-41-24-074.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-23-44-33-831.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-23-47-29-899.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-23-47-43-226.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-23-50-06-528.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-23-50-14-790.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-27-23-50-26-961.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-08-43-21-311.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-08-43-29-365.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-22-09-52-533.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-22-10-25-556.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-22-15-10-447.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-29-22-19-59-842.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/mockable-android-18.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/mockable-android-21.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/BootReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/DbAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/DownloadImageTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/MainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/MainActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/MyAppWidget.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/MyWidgetConfigurationActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/MyWidgetConfigurationActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/Point.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/PressureUpdateService$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/PressureUpdateService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/R$xml.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/ResultP.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental-verifier/debug/my/android/WebDataReciver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/2FNLdJJ8zUfSnqbaQscL_+K2wV8=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/dependencies/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/manifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/slice_0/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/slice_1/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/slice_2/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/slice_3/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/slice_4/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/slice_5/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/slice_6/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/slice_7/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/slice_8/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/instant-run-support/debug/slice_9/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/restart-dex/debug/build-info.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/BootReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/DbAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/DownloadImageTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/MainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/MainActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/MyAppWidget.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/MyWidgetConfigurationActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/MyWidgetConfigurationActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/Point.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/PressureUpdateService$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/PressureUpdateService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/R$xml.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/ResultP.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRun/debug/folders/1/5/main/my/android/WebDataReciver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/android/tools/fd/dummy/slice_0.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/android/tools/fd/dummy/slice_1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/android/tools/fd/dummy/slice_2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/buildId.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/android/tools/fd/dummy/slice_3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/BootReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/DbAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/DownloadImageTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/MainActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/MainActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/MyAppWidget.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/MyWidgetConfigurationActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/MyWidgetConfigurationActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/Point.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/PressureUpdateService$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/PressureUpdateService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/R$xml.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/ResultP.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/my/android/WebDataReciver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/android/tools/fd/dummy/slice_4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/android/tools/fd/dummy/slice_5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/android/tools/fd/dummy/slice_6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/android/tools/fd/dummy/slice_7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/android/tools/fd/dummy/slice_8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/android/tools/fd/dummy/slice_9.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_PressureMonitor_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_PressureMonitor_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_PressureMonitor_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_PressureMonitor_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/pre-dexed/debug/android-support-v4_5ab905f45929cae2f4ddb2198979aa89c35f04ef.jar" afterPath="$PROJECT_DIR$/PressureMonitor/build/intermediates/pre-dexed/debug/android-support-v4_5ab905f45929cae2f4ddb2198979aa89c35f04ef.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/pre-dexed/debug/debug_3be58aab32f87d752028a98eeca4e16c83d8c04e.jar" afterPath="$PROJECT_DIR$/PressureMonitor/build/intermediates/pre-dexed/debug/debug_3be58aab32f87d752028a98eeca4e16c83d8c04e.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PressureMonitor/build/outputs/apk/PressureMonitor-debug.apk" afterPath="$PROJECT_DIR$/PressureMonitor/build/outputs/apk/PressureMonitor-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/PressureMonitor/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
     </list>
     <ignored path="PressureMonitor1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -2153,11 +2242,11 @@
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32830188" sideWeight="0.49377915" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32830188" sideWeight="0.46267498" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32830188" sideWeight="0.45956454" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496112" sideWeight="0.23033708" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32830188" sideWeight="0.537325" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32830188" sideWeight="0.54043543" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26415095" sideWeight="0.48755834" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2165,7 +2254,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496112" sideWeight="0.48876405" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496112" sideWeight="0.7696629" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496112" sideWeight="0.7696629" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496112" sideWeight="0.46629214" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />

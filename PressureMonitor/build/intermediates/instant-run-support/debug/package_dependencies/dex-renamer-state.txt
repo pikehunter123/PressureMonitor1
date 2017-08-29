@@ -1,4 +1,0 @@
-#Sun Aug 27 23:47:55 MSK 2017
-base.0=D\:\\PressureMonitor1\\PressureMonitor\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_5ab905f45929cae2f4ddb2198979aa89c35f04ef
-renamed.0=classes.dex
-file.0=D\:\\PressureMonitor1\\PressureMonitor\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_5ab905f45929cae2f4ddb2198979aa89c35f04ef\\classes.dex
