@@ -14,7 +14,7 @@ public class WebDataReciver {
 		Point p = getWeather("https://pogoda.yandex.ru/moscow/");
 		int temp = p.x;
 		int press = p.y;
-		System.out.println("---"+temp+" "+press);
+		Log.d(WebDataReciver.class.getName(), "---"+temp+" "+press);
 
 	}
 
@@ -46,6 +46,8 @@ public class WebDataReciver {
 			}
 
 			// работаем с регулярками
+			//Log.i(WebDataReciver.class.getName(), "zzzzzcountttt---"+allpage.toString().length());
+
 			//Log.i(WebDataReciver.class.getName(), "zzzzz---"+allpage.toString());
 			/*//String patt_temp = "<div\\s+class=\"current-weather__thermometer current-weather__thermometer_type_now\"\\s*>[^&]{1,}";
 			String patt_temp = "current-weather__condition-icon\"\\s+data-width=\"46\"></i>[^&]{1,}";
@@ -53,13 +55,21 @@ public class WebDataReciver {
 			String stemp = tryMatch(allpage, patt_temp);
 			stemp=stemp.split(">", 3)[2].replace("+", "");
 			if (stemp!=null)
-			*/ matchtemper = 0;//Integer.parseInt(stemp);
+			*/
+			int ind=allpage.indexOf("мм рт");
+			String s=allpage.substring(ind-100,ind);
+			//Log.i(WebDataReciver.class.getName(),"sss="+s);
+			matchtemper = 0;//Integer.parseInt(stemp);
 			///System.out.println("t---" + matchtemper);
 
-			String patt_press = "Давление:\\s+[^<]{1,}";
-			String spress = tryMatch(allpage, patt_press).trim();
+			String patt_press ="(\\d+)(?!.*\\d)"; // last digit group "Давление:\\s+[^<]{1,}";
+			//String patt_press ="Давление:\\s"; //"Давление:\\s+[^<]{1,}";
+			String spress = tryMatch(s, patt_press);
+
+
+
 			///System.out.println("p---" + spress);
-			Integer pressure= Integer.parseInt(spress.split(" ")[1]);
+			Integer pressure= Integer.parseInt(spress/*.split(" ")[1]*/);
 			//System.out.println("---" + pressure);
 
 			/*String patt_raise = "Восход:\\s*</span>[^<]*";
@@ -92,7 +102,8 @@ public class WebDataReciver {
 		return ret;
 	}
 
-	private static String tryMatch(StringBuilder allpage, String patt) {
+	private static String tryMatch(String allpage, String patt) {
+		Log.d(WebDataReciver.class.getName(), "zzzzz tryMatch  allpage20="+allpage.substring(0,20)+ " patt="+patt);
 		final Pattern pattern = Pattern.compile(patt);
 		Matcher matcher = pattern.matcher(allpage.toString());
 		String stemp=null;

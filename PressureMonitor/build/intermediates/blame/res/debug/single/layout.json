@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\PressureMonitor1\\PressureMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\pressure_widget.xml",
+        "source": "D:\\PressureMonitor1\\PressureMonitor\\src\\main\\res\\layout\\pressure_widget.xml"
+    },
+    {
+        "merged": "D:\\PressureMonitor1\\PressureMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\PressureMonitor1\\PressureMonitor\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\PressureMonitor1\\PressureMonitor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_conf.xml",
+        "source": "D:\\PressureMonitor1\\PressureMonitor\\src\\main\\res\\layout\\activity_conf.xml"
+    }
+]

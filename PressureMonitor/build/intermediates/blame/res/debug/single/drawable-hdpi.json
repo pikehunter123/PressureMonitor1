@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\PressureMonitor1\\PressureMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\applogo.png",
+        "source": "D:\\PressureMonitor1\\PressureMonitor\\src\\main\\res\\drawable-hdpi\\applogo.png"
+    },
+    {
+        "merged": "D:\\PressureMonitor1\\PressureMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pattern.png",
+        "source": "D:\\PressureMonitor1\\PressureMonitor\\src\\main\\res\\drawable-hdpi\\pattern.png"
+    },
+    {
+        "merged": "D:\\PressureMonitor1\\PressureMonitor\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\PressureMonitor1\\PressureMonitor\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

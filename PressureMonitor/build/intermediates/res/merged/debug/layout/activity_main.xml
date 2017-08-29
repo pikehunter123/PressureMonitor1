@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<ImageView android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:src="@drawable/applogo"
+    android:layout_gravity="center_horizontal|center"
+    android:layout_margin="0px"
+    />
+<Button
+    android:id="@+id/refrbutton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:layout_gravity="center_horizontal|center"
+    android:textSize="30px"
+    android:padding="20px"
+    android:layout_marginTop="10dip"
+    android:text="lets go сейчас"
+    />
+<TextView 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="темп..."
+    android:textSize="100dip"
+    android:gravity="center_horizontal"
+    android:id="@+id/temper"
+    android:textColor="#EEE3C4"
+    />
+<Button
+    android:id="@+id/start"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:layout_gravity="center_horizontal|center"
+    android:textSize="30px"
+    android:padding="20px"
+    android:layout_marginTop="10dip"
+    android:text="start"
+    />
+<Button
+    android:id="@+id/stop"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:layout_gravity="center_horizontal|center"
+    android:textSize="30px"
+    android:padding="20px"
+    android:layout_marginTop="10dip"
+    android:text="stop"
+    />
+ <!--   <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />-->
+
+</LinearLayout>

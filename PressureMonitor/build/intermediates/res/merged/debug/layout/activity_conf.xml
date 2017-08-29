@@ -1,0 +1,148 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Параметры виджета"
+        android:textColor="#000000"
+        android:textSize="14dip" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tperiod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Период обновления мин"
+            android:textColor="#000000"
+            android:textSize="12dip" />
+
+        <EditText
+            android:id="@+id/period"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1"
+            android:textSize="12dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Длина истории (число измерений)"
+            android:textColor="#000000"
+            android:textSize="12dip" />
+
+        <EditText
+            android:id="@+id/historylength"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="100"
+            android:textSize="12dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Давление min (мм.рт.ст)"
+            android:textColor="#000000"
+            android:textSize="12dip" />
+
+        <EditText
+            android:id="@+id/pressuremin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="730"
+            android:textSize="12dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Давление max (мм.рт.ст)"
+            android:textColor="#000000"
+            android:textSize="12dip" />
+
+        <EditText
+            android:id="@+id/pressuremax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="770"
+            android:textSize="12dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/turl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Адрес обращения"
+            android:textColor="#000000"
+            android:textSize="12dip" />
+
+        <EditText
+            android:id="@+id/url"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="https://pogoda.yandex.ru/moscow/"
+            android:textSize="12dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Регулярное выражение получения давления"
+            android:textColor="#000000"
+            android:textSize="12dip" />
+
+        <EditText
+            android:id="@+id/pressureregular"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Давление:\\s+[^&lt;]{1,}"
+            android:textSize="12dip" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/okbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center"
+        android:layout_marginTop="10dip"
+        android:gravity="center_horizontal"
+        android:padding="20px"
+        android:text="OK"
+        android:textSize="30px" />
+
+</LinearLayout>
